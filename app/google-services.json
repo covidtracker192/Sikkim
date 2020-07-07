@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1086159045349",
+    "firebase_url": "https://sikkim-f499e.firebaseio.com",
+    "project_id": "sikkim-f499e",
+    "storage_bucket": "sikkim-f499e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086159045349:android:49a4c2d12ea46d646c4a0c",
+        "android_client_info": {
+          "package_name": "com.covid19.sikkim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086159045349-eanu2fvbc24elu5pesro2ospkf72m2pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABsrTlAOw3cGOf7L0TpHUdXKhwFWs4G6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086159045349-eanu2fvbc24elu5pesro2ospkf72m2pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
