@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1086159045349-vg4npruv81329lgah2gcq49qv78qja6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.sikkim",
+            "certificate_hash": "09e23ec34fee28b19b5b3e42b0f2c09e4c77f1d2"
+          }
+        },
+        {
           "client_id": "1086159045349-eanu2fvbc24elu5pesro2ospkf72m2pd.apps.googleusercontent.com",
           "client_type": 3
         }
